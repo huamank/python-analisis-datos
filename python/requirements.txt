@@ -1,0 +1,4 @@
+pymongo==4.6.2
+sqlalchemy==2.0.29
+mysqlclient==2.2.4
+pandas==2.2.1
